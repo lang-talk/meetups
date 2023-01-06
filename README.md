@@ -1,5 +1,7 @@
 # meetups
 
+## [A List of Topics for Future Talks](./proposals.md)
+
 ## lang-talk meetup vol. 0 [recording](https://youtu.be/D2EPM60-MPE)
 
 Line up:
