@@ -17,5 +17,4 @@ Line up:
 Line up:
 
 - [Malbolge: the self-modifying puzzle?](/talks/1/malbolge.md)
-
 - [Project Bluex](/talks/1/bluex.md)
