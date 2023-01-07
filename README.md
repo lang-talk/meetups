@@ -17,4 +17,6 @@ Line up:
 Line up:
 
 - [Malbolge: the self-modifying puzzle?](./resources/1/malbolge.pdf)
+  - [https://lutter.cc/malbolge/debugger.html](https://lutter.cc/malbolge/debugger.html)
+  - [http://www.malbolge.doleczek.pl](http://www.malbolge.doleczek.pl/)
 - [Project Bluex](./resources/1/project-bluex.pdf)
