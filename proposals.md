@@ -9,3 +9,4 @@ This way you can create some traction for your talk before it is ready to be giv
 The list:
 
 - Introduction to Qualified Types `in works`
+- Symbolic Execution, is it even useful? `in works`
