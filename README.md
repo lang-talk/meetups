@@ -12,9 +12,11 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 ## Past Talks
 
-### lang-talk meetup vol. 0 [recording](https://youtu.be/D2EPM60-MPE)
+### lang-talk meetup vol. 0
 
-Date: 16. November 2022
+:movie_camera: Recording: [https://youtu.be/D2EPM60-MPE](https://youtu.be/D2EPM60-MPE)
+
+:date: Date: 16. November 2022
 
 Line up:
 
@@ -24,9 +26,11 @@ Line up:
 - [Kind of a Pointless* Talk](./resources/0/kind-of-pointless.pdf)
 
 
-### lang-talk meetup vol. 1 [recording](https://youtu.be/eYROniHhM4g)
+### lang-talk meetup vol. 1
 
-Date: 15. December 2022
+:movie_camera: Recording: [https://youtu.be/eYROniHhM4g](https://youtu.be/eYROniHhM4g)
+
+:date: Date: 15. December 2022
 
 Line up:
 
