@@ -1,8 +1,20 @@
-# meetups
+# #lang-talk meetups
 
-## [A List of Topics for Future Talks](./proposals.md)
+This is the page for our small comunity of PL enthusiasts.
+The effort started on 16th November 2022. That was the date of our first meetup.
 
-## lang-talk meetup vol. 0 [recording](https://youtu.be/D2EPM60-MPE)
+
+## [Future Talks](./proposals.md)
+
+Check it out if you want to know what is up.
+You can also add stuff to the list - even if you don't want to give that talk yourself, someone else might pick it up.
+
+
+## Past Talks
+
+### lang-talk meetup vol. 0 [recording](https://youtu.be/D2EPM60-MPE)
+
+Date: 16. November 2022
 
 Line up:
 
@@ -12,7 +24,9 @@ Line up:
 - [Kind of a Pointless* Talk](./resources/0/kind-of-pointless.pdf)
 
 
-## lang-talk meetup vol. 1 [recording](https://youtu.be/eYROniHhM4g)
+### lang-talk meetup vol. 1 [recording](https://youtu.be/eYROniHhM4g)
+
+Date: 15. December 2022
 
 Line up:
 
