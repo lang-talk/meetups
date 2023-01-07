@@ -1,6 +1,6 @@
 # List of Talk Proposals
 
-This page lists talk proposals. Do you have an idea you'd like to see talked about? This is the right place for it. Just submit a pull reguest.
+This page lists talk proposals. Do you have an idea you'd like to see talked about? This is the right place for it. Just submit a [pull reguest](https://github.com/lang-talk/meetups/pulls).
 
 If you want to give a talk some time in the future you can also add the topic here.
 Don't forget to mark it as `in works` to make sure that others understand that you will take care of the talk.
