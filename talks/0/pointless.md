@@ -1,3 +1,3 @@
 # Kind of a Pointless* Talk
 
-slides: [pdf](/resources/0/pointless.pdf)
+slides: [pdf](/resources/0/kind-of-pointless.pdf)
