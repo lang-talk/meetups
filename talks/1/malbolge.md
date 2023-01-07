@@ -1,6 +1,6 @@
 # Malbolge: the self-modifying puzzle?
 
-slides: [pdf](./resources/1/malbolge.pdf)
+slides: [pdf](/resources/1/malbolge.pdf)
 
 links:
 
