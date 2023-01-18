@@ -12,3 +12,4 @@ The list:
 
 - Introduction to Qualified Types `🔧 in works`
 - Symbolic Execution, is it even useful? `🔧 in works`
+- Continuations, how to have made a different sandwich `🔧 in works`
