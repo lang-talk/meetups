@@ -3,6 +3,9 @@
 This is the page for our small comunity of PL enthusiasts.
 The effort started on 16th November 2022. That was the date of our first meetup.
 
+## [Get updates to your mailbox](https://forms.gle/7aS8Qcf2bQPBXJFRA)
+We will keep you notified when a next meetup is getting ready.
+
 
 ## [Future Talks](./proposals.md)
 
