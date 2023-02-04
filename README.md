@@ -17,7 +17,7 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 ### lang-talk meetup vol. 0
 
-🎥 Recording: [https://youtu.be/D2EPM60-MPE](https://youtu.be/D2EPM60-MPE)
+🎥 Recording: [youtu.be/D2EPM60-MPE](https://youtu.be/D2EPM60-MPE)
 
 📅 Date: 16. November 2022
 
@@ -31,7 +31,7 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 ### lang-talk meetup vol. 1
 
-🎥 Recording: [https://youtu.be/eYROniHhM4g](https://youtu.be/eYROniHhM4g)
+🎥 Recording: [youtu.be/eYROniHhM4g](https://youtu.be/eYROniHhM4g)
 
 📅 Date: 15. December 2022
 
@@ -45,7 +45,7 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 ### lang-talk meetup vol. 2
 
-🎥 Recording: [...](...)
+🎥 Recording: [youtube.com/live/P9Hqp_OVjL0](https://youtube.com/live/P9Hqp_OVjL0)
 
 📅 Date: 31. January 2023
 
