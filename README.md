@@ -41,3 +41,16 @@ You can also add stuff to the list - even if you don't want to give that talk yo
   - [https://lutter.cc/malbolge/debugger.html](https://lutter.cc/malbolge/debugger.html)
   - [http://www.malbolge.doleczek.pl](http://www.malbolge.doleczek.pl/)
 - [Project Bluex](./resources/1/project-bluex.pdf)
+
+
+### lang-talk meetup vol. 2
+
+🎥 Recording: [...](...)
+
+📅 Date: 31. January 2023
+
+📋 Line up:
+
+- [Continuations, how to have made a different sandwich](./resources/2/continuations.pdf)
+- [Properly 🅱️ased testing](./resources/2/testing.pdf)
+- [Really Gentle Introduction to Haskell's Type System](./resources/2/qualified.pdf)
