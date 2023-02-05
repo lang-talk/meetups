@@ -31,7 +31,7 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 ### lang-talk meetup vol. 1
 
-🎥 Recording: [youtu.be/eYROniHhM4g](https://youtu.be/eYROniHhM4g)
+🎥 Recording: [youtube.com/live/uJkWmLQE5LI](https://youtube.com/live/uJkWmLQE5LI)
 
 📅 Date: 15. December 2022
 
