@@ -29,6 +29,9 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 - [Kind of a Pointless* Talk](./resources/0/kind-of-pointless.pdf)
 
 
+----
+
+
 ### lang-talk meetup vol. 1
 
 🎥 Recording: [youtube.com/live/uJkWmLQE5LI](https://youtube.com/live/uJkWmLQE5LI)
@@ -41,6 +44,9 @@ You can also add stuff to the list - even if you don't want to give that talk yo
   - [https://lutter.cc/malbolge/debugger.html](https://lutter.cc/malbolge/debugger.html)
   - [http://www.malbolge.doleczek.pl](http://www.malbolge.doleczek.pl/)
 - [Project Bluex](./resources/1/project-bluex.pdf)
+
+
+----
 
 
 ### lang-talk meetup vol. 2
