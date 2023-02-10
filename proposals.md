@@ -10,7 +10,6 @@ If you'd want to propose a topic that someone else might pick up and make, mark 
 
 The list:
 
-- Introduction to Qualified Types `🔧 in the works`
+- Making a Simple Automated Theorem Prover `🔧 in the works`
+- Introduction to Algebraic Effects and Handlers `🔧 in the works`
 - Symbolic Execution, is it even useful? `🔧 in the works`
-- Continuations, how to have made a different sandwich `🔧 in the works`
-- Properly 🅱️ased testing `🔧 in the works`
