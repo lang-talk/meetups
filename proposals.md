@@ -11,5 +11,7 @@ If you'd want to propose a topic that someone else might pick up and make, mark 
 The list:
 
 - Making a Simple Automated Theorem Prover `🔧 in the works`
+- Write Yourself a Prolog in 15 minutes `🔧 in the works`
+- Write Yourself a CLP(FD) Solver `🔧 in the works`
 - Introduction to Algebraic Effects and Handlers `🔧 in the works`
 - Symbolic Execution, is it even useful? `🔧 in the works`
