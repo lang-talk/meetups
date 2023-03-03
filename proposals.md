@@ -14,4 +14,5 @@ The list:
 - Write Yourself a Prolog in 15 minutes `🔧 in the works`
 - Write Yourself a CLP(FD) Solver `🔧 in the works`
 - Introduction to Algebraic Effects and Handlers `🔧 in the works`
+- Optimize for speed and safety in Common Lisp through Gradual typing `🔧 in the works`
 - Symbolic Execution, is it even useful? `🔧 in the works`
