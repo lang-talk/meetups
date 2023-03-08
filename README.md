@@ -3,9 +3,11 @@
 This is the page for our small comunity of PL enthusiasts.
 The effort started on 16th November 2022. That was the date of our first meetup.
 
-## [Get updates to your mailbox](https://forms.gle/7aS8Qcf2bQPBXJFRA)
+## [📬 Get updates to your mailbox](https://forms.gle/7aS8Qcf2bQPBXJFRA)
 We will keep you notified when a next meetup is getting ready.
 
+
+## [🎧 Recommended Podcasts](./podcasts.md)
 
 ## [Future Talks](./proposals.md)
 
@@ -60,3 +62,18 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 - [Continuations, how to have made a different sandwich](./resources/2/continuations.pdf)
 - [Properly 🅱️ased testing](./resources/2/testing.pdf)
 - [Really Gentle Introduction to Haskell's Type System](./resources/2/qualified.pdf)
+
+
+----
+
+
+### lang-talk meetup vol. 3
+
+🎥 Recording: [youtube.com/live/P6YdCdkjTtA](https://youtube.com/live/P6YdCdkjTtA)
+
+📅 Date: 28. February 2023
+
+📋 Line up:
+
+- Symbolic Execution, is it even useful?
+- (not so) Moderated Discussion
