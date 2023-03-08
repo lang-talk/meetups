@@ -1,4 +1,4 @@
-# List of Talk Proposals
+# 📌 List of Talk Proposals
 
 This page lists talk proposals. Do you have an idea you'd like to see talked about? This is the right place for it. Just submit a [pull reguest](https://github.com/lang-talk/meetups/pulls).
 
