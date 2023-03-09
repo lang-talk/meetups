@@ -15,7 +15,7 @@ Check it out if you want to know what is up.
 You can also add stuff to the list - even if you don't want to give that talk yourself, someone else might pick it up.
 
 
-## 🎤 Past Talks
+## 🎙 Past Talks
 
 ### lang-talk meetup vol. 0
 
