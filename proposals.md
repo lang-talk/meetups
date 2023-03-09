@@ -6,7 +6,9 @@ If you want to give a talk some time in the future you can also add the topic he
 Don't forget to mark it as `🔧 in the works` to make sure that others understand that you will take care of the talk.
 This way you can create some traction for your talk before it is ready to be given.
 
-If you'd want to propose a topic that someone else might pick up and make, mark it as `free to claim`.
+If you'd want to propose a topic that someone else might pick up and make, mark it as `🆓 free to claim`.
+
+You can also mark it as `🛠 open to collab` meaning that you will welcome other people approaching you with their ideas or requests - you can decide to give the talk together (ideally though, limit yourself to two or at most three speakers for obvious reasons).
 
 The list:
 
