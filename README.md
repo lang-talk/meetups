@@ -9,6 +9,8 @@ We will keep you notified when a next meetup is getting ready.
 
 ## [🎧 Recommended Podcasts](./podcasts.md)
 
+A list of podcasts that are relevant to the PL research and implementation.
+
 ## [📌 Future Talks](./proposals.md)
 
 Check it out if you want to know what is up.
