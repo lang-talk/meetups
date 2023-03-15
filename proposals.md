@@ -17,3 +17,4 @@ The list:
 - Write Yourself a CLP(FD) Solver `🔧 in the works`
 - Introduction to Algebraic Effects and Handlers `🔧 in the works`
 - Optimize for speed and safety in Common Lisp through Gradual typing `🔧 in the works`
+- Let's oxidize the code `🛠 open to collab` (Artify)
