@@ -18,3 +18,4 @@ The list:
 - Introduction to Algebraic Effects and Handlers `🔧 in the works`
 - Optimize for speed and safety in Common Lisp through Gradual typing `🔧 in the works`
 - Let's oxidize the code `🛠 open to collab` (Artify)
+- What is Functional Programming and Where can I Find It? `🔧 in the works` `🛠 open to collab`
