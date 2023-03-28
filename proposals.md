@@ -23,7 +23,7 @@ Additionaly, you can also mark the talk as `🛠 open to collab` - meaning that 
 
 - Optimize for speed and safety in Common Lisp through Gradual typing `🔧 in the works`
 - Let's oxidize the code `🛠 open to collab` (Artify)
-- Write Yourself a Prolog in 20 minutes `🔧 in the works`
+- Write Yourself a Prolog in 20 Minutes `🔧 in the works`
 
 ## 🫳 Free to Claim:
 
