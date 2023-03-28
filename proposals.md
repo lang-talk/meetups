@@ -23,14 +23,13 @@ Additionaly, you can also mark the talk as `🛠 open to collab` - meaning that 
 
 - Optimize for speed and safety in Common Lisp through Gradual typing `🔧 in the works`
 - Let's oxidize the code `🛠 open to collab` (Artify)
-- What is Functional Programming and Where can I Find It? `🔧 in the works` `🛠 open to collab`
+- Write Yourself a Prolog in 20 minutes `🔧 in the works`
 
 ## 🫳 Free to Claim:
 
 
 ## 🧊 Frozen:
-
-- Making a Simple Automated Theorem Prover `🔧 in the works` 🧊
-- Write Yourself a Prolog in 15 minutes `🔧 in the works` 🧊
-- Write Yourself a CLP(FD) Solver `🔧 in the works` 🧊
-- Introduction to Algebraic Effects and Handlers `🔧 in the works` 🧊
+- What is Functional Programming and Where can I Find It? `🛠 open to collab` 🧊
+- Making a Simple Automated Theorem Prover  🧊
+- Write Yourself a CLP(FD) Solver 🧊
+- Introduction to Algebraic Effects and Handlers 🧊
