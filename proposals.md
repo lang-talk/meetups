@@ -20,8 +20,6 @@ Additionaly, you can also mark the talk as `🛠 open to collab` - meaning that 
 
 
 ## 👷 Being Prepared:
-
-- Optimize for speed and safety in Common Lisp through Gradual typing `🔧 in the works`
 - Let's oxidize the code `🛠 open to collab` (Artify)
 - Write Yourself a Prolog in 20 Minutes `🔧 in the works`
 
