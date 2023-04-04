@@ -79,3 +79,21 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 - Symbolic Execution, is it even useful?
 - (not so) Moderated Discussion
+
+
+----
+
+
+### lang-talk meetup vol. 4
+
+🎥 Recording: [youtube.com/live/i6l8zdv19WI](https://youtube.com/live/i6l8zdv19WI)
+
+📅 Date: 27. March 2023
+
+📋 Line up:
+
+- [Harry Potter And The Methods of Equality Saturation](./resources/4/hp-equality-saturation.pdf)
+- [Significantly Abridged: Optimize for speed and safety in Common Lisp and Coalton through Gradual typing](./resources/4/cl.pdf)
+- Type System for Your Type System: Introduction to the Kinds
+
+
