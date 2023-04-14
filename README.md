@@ -94,6 +94,4 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 - [Harry Potter And The Methods of Equality Saturation](./resources/4/hp-equality-saturation.pdf)
 - [Significantly Abridged: Optimize for speed and safety in Common Lisp and Coalton through Gradual typing](./resources/4/cl.pdf)
-- Type System for Your Type System: Introduction to the Kinds
-
-
+- Type System for Your Type System: Introduction to Kinds
