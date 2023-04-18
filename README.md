@@ -78,7 +78,7 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 📋 Line up:
 
 - Symbolic Execution, is it even useful?
-- (not so) Moderated Discussion
+- (not so) Moderated Discussion: From Functional Programming to ABIs and More
 
 
 ----
@@ -95,3 +95,4 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 - [Harry Potter And The Methods of Equality Saturation](./resources/4/hp-equality-saturation.pdf)
 - [Significantly Abridged: Optimize for speed and safety in Common Lisp and Coalton through Gradual typing](./resources/4/cl.pdf)
 - Type System for Your Type System: Introduction to Kinds
+- Moderated Discussion: The Best Ways and PLs for Learning Programming
