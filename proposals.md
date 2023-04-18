@@ -25,6 +25,9 @@ Additionaly, you can also mark the talk as `🛠 open to collab` - meaning that 
 
 ## 🫳 Free to Claim:
 
+-  Guess how this is (not) optimized
+-  Proof Assistants
+-  Rust Macro System
 
 ## 🧊 Frozen:
 - What is Functional Programming and Where can I Find It? `🛠 open to collab` 🧊
