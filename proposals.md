@@ -22,6 +22,7 @@ Additionaly, you can also mark the talk as `🛠 open to collab` - meaning that 
 ## 👷 Being Prepared:
 - Let's oxidize the code `🛠 open to collab` (Artify)
 - Write Yourself a Prolog in 20 Minutes `🔧 in the works`
+- S-Expression the ultimate Datum `🔧 in the works`
 
 ## 🫳 Free to Claim:
 
