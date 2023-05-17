@@ -96,3 +96,20 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 - [Significantly Abridged: Optimize for speed and safety in Common Lisp and Coalton through Gradual typing](./resources/4/cl.pdf)
 - Type System for Your Type System: Introduction to Kinds
 - Moderated Discussion: The Best Ways and PLs for Learning Programming
+
+
+----
+
+
+### lang-talk meetup vol. 5
+
+🎥 Recording: [youtube.com/live/yu9Ez4XnmnM](https://youtube.com/live/yu9Ez4XnmnM)
+
+📅 Date: 20. April 2023
+
+📋 Line up:
+
+- [Historie programování: Microsoft Visual Basic](./resources/5/vb.pdf)
+- [Let's oxidize the code](./resources/5/rust.pdf)
+- Moderated Duscussion: Shells of the Future
+
