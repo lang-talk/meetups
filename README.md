@@ -6,6 +6,8 @@ The effort started on 16th November 2022. That was the date of our first meetup.
 ## [📬 Get updates to your mailbox](https://forms.gle/7aS8Qcf2bQPBXJFRA)
 We will keep you notified when a next meetup is getting ready.
 
+____
+
 
 ## Recommendations
 
@@ -25,6 +27,8 @@ A list of papers, books and other kinds of texts we read and love.
 ### [📺 Recommended Videos](./videos.md)
 
 Recordings of talks but not only.
+
+____
 
 
 ## [📌 Future Talks](./proposals.md)
