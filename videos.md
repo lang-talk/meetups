@@ -1,4 +1,4 @@
-## 📺 Videos
+# 📺 Videos
 
 [Functional Design Patterns - Scott Wlaschin](https://www.youtube.com/watch?v=srQt1NAHYC0)
 
