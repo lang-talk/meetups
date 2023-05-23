@@ -16,6 +16,12 @@ A list of podcasts that are relevant to the PL research and implementation.
 
 A list of papers, books and other kinds of texts we read and love.
 
+
+## [Recommended Videos](./videos.md)
+
+Recordings of talks but not only.
+
+
 ## [📌 Future Talks](./proposals.md)
 
 Check it out if you want to know what is up.
