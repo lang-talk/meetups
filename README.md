@@ -131,5 +131,5 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 - [Historie programování: Microsoft Visual Basic](./resources/5/vb.pdf)
 - [Let's oxidize the code](./resources/5/rust.pdf)
-- Moderated Duscussion: Shells of the Future
+- Moderated Discussion: Shells of the Future
 
