@@ -4,11 +4,11 @@
 
 [Future of Coding](https://futureofcoding.org)
 
-[Software Unscripted](https://twitter.com/sw_unscripted?lang=cs)
+[Software Unscripted](https://twitter.com/sw_unscripted)
 
-[The Seach Space](https://thesearch.space)
+[The Search Space](https://thesearch.space)
 
-[The Type Theory Podcast](https://thesearch.space)
+[The Type Theory Podcast](https://typetheorypodcast.com/)
 
 [Type Theory Forall](https://www.typetheoryforall.com)
 
