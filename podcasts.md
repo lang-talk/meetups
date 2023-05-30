@@ -19,3 +19,5 @@
 [The Iowa Type Theory Commute](https://homepage.divms.uiowa.edu/~astump/ittc.html)
 
 [Algorithms + Data Structures = Programs](https://adspthepodcast.com)
+
+[The Array Cast](https://www.arraycast.com)
