@@ -39,66 +39,17 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 ## 🎙 Past Talks
 
-### lang-talk meetup vol. 0
+### lang-talk meetup vol. 5
 
-🎥 Recording: [youtu.be/D2EPM60-MPE](https://youtu.be/D2EPM60-MPE)
+🎥 Recording: [youtube.com/live/yu9Ez4XnmnM](https://youtube.com/live/yu9Ez4XnmnM)
 
-📅 Date: 16. November 2022
-
-📋 Line up:
-
-- Weird Stuff PowerShell Does
-- [Φ Nodes are Functions!](./resources/0/phi.pdf)
-- [WAT: Hardware Edition](./resources/0/wat.pdf)
-- [Kind of a Pointless* Talk](./resources/0/kind-of-pointless.pdf)
-
-
-----
-
-
-### lang-talk meetup vol. 1
-
-🎥 Recording: [youtube.com/live/uJkWmLQE5LI](https://youtube.com/live/uJkWmLQE5LI)
-
-📅 Date: 15. December 2022
+📅 Date: 20. April 2023
 
 📋 Line up:
 
-- [Malbolge: the self-modifying puzzle?](./resources/1/malbolge.pdf)
-  - [https://lutter.cc/malbolge/debugger.html](https://lutter.cc/malbolge/debugger.html)
-  - [http://www.malbolge.doleczek.pl](http://www.malbolge.doleczek.pl/)
-- [Project Bluex](./resources/1/project-bluex.pdf)
-
-
-----
-
-
-### lang-talk meetup vol. 2
-
-🎥 Recording: [youtube.com/live/P9Hqp_OVjL0](https://youtube.com/live/P9Hqp_OVjL0)
-
-📅 Date: 31. January 2023
-
-📋 Line up:
-
-- [Continuations, how to have made a different sandwich](./resources/2/continuations.pdf)
-- [Properly 🅱️ased testing](./resources/2/testing.pdf)
-- [Really Gentle Introduction to Haskell's Type System](./resources/2/qualified.pdf)
-
-
-----
-
-
-### lang-talk meetup vol. 3
-
-🎥 Recording: [youtube.com/live/P6YdCdkjTtA](https://youtube.com/live/P6YdCdkjTtA)
-
-📅 Date: 28. February 2023
-
-📋 Line up:
-
-- Symbolic Execution, is it even useful?
-- (not so) Moderated Discussion: From Functional Programming to ABIs and More
+- [Historie programování: Microsoft Visual Basic](./resources/5/vb.pdf)
+- [Let's oxidize the code](./resources/5/rust.pdf)
+- Moderated Discussion: Shells of the Future
 
 
 ----
@@ -121,15 +72,63 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 ----
 
 
-### lang-talk meetup vol. 5
+### lang-talk meetup vol. 3
 
-🎥 Recording: [youtube.com/live/yu9Ez4XnmnM](https://youtube.com/live/yu9Ez4XnmnM)
+🎥 Recording: [youtube.com/live/P6YdCdkjTtA](https://youtube.com/live/P6YdCdkjTtA)
 
-📅 Date: 20. April 2023
+📅 Date: 28. February 2023
 
 📋 Line up:
 
-- [Historie programování: Microsoft Visual Basic](./resources/5/vb.pdf)
-- [Let's oxidize the code](./resources/5/rust.pdf)
-- Moderated Discussion: Shells of the Future
+- Symbolic Execution, is it even useful?
+- (not so) Moderated Discussion: From Functional Programming to ABIs and More
 
+
+----
+
+
+### lang-talk meetup vol. 2
+
+🎥 Recording: [youtube.com/live/P9Hqp_OVjL0](https://youtube.com/live/P9Hqp_OVjL0)
+
+📅 Date: 31. January 2023
+
+📋 Line up:
+
+- [Continuations, how to have made a different sandwich](./resources/2/continuations.pdf)
+- [Properly 🅱️ased testing](./resources/2/testing.pdf)
+- [Really Gentle Introduction to Haskell's Type System](./resources/2/qualified.pdf)
+
+
+----
+
+
+### lang-talk meetup vol. 1
+
+🎥 Recording: [youtube.com/live/uJkWmLQE5LI](https://youtube.com/live/uJkWmLQE5LI)
+
+📅 Date: 15. December 2022
+
+📋 Line up:
+
+- [Malbolge: the self-modifying puzzle?](./resources/1/malbolge.pdf)
+  - [https://lutter.cc/malbolge/debugger.html](https://lutter.cc/malbolge/debugger.html)
+  - [http://www.malbolge.doleczek.pl](http://www.malbolge.doleczek.pl/)
+- [Project Bluex](./resources/1/project-bluex.pdf)
+
+
+----
+
+
+### lang-talk meetup vol. 0
+
+🎥 Recording: [youtu.be/D2EPM60-MPE](https://youtu.be/D2EPM60-MPE)
+
+📅 Date: 16. November 2022
+
+📋 Line up:
+
+- Weird Stuff PowerShell Does
+- [Φ Nodes are Functions!](./resources/0/phi.pdf)
+- [WAT: Hardware Edition](./resources/0/wat.pdf)
+- [Kind of a Pointless* Talk](./resources/0/kind-of-pointless.pdf)
