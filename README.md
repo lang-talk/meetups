@@ -39,6 +39,82 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 ## 🎙 Past Talks
 
+### lang-talk meetup vol. 10
+
+🎥 Recording: won't be recorded
+
+📅 Date: Doodle voting to be announced (expected November 2023)
+
+📋 Line up: to be announced
+
+
+----
+
+
+### lang-talk meetup vol. 9
+
+🎥 Recording: not recorded
+
+📅 Date: 30. October 2023
+
+📋 Line up:
+
+- Expression problem
+- Closures are a poor man's object (Prototypes: Object-Orientation, Functionally)
+- Introduction to Formal Reasoning and Theorem Proving
+
+
+----
+
+
+### lang-talk meetup vol. 8
+
+🎥 Recording: not recorded
+
+📅 Date: 26. July 2023
+
+📋 Line up:
+
+- How to build and break LLVM
+
+
+----
+
+
+### lang-talk meetup vol. 7
+
+🎥 Recording:
+
+ - [part 1: youtube.com/live/PEVLRXKiA0U](https://youtube.com/live/PEVLRXKiA0U)
+ - [part 2: youtube.com/live/6p-wk48aqBk](https://youtube.com/live/6p-wk48aqBk)
+
+📅 Date: 29. June 2023
+
+📋 Line up:
+
+- S-Expression the ultimate Datum
+- JavaScript is Stat...Expression oriented, continued
+
+
+----
+
+
+
+### lang-talk meetup vol. 6
+
+🎥 Recording: [youtube.com/live/WpnomZmQNcE](https://youtube.com/live/WpnomZmQNcE)
+
+📅 Date: 30. May 2023
+
+📋 Line up:
+
+- Historie programování: APL
+- JavaScript is Stat...Expression oriented
+
+
+----
+
+
 ### lang-talk meetup vol. 5
 
 🎥 Recording: [youtube.com/live/yu9Ez4XnmnM](https://youtube.com/live/yu9Ez4XnmnM)
