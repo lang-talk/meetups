@@ -60,7 +60,7 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 📋 Line up:
 
 - [Expression problem](./resources/9/expression-problem)
-- Closures are a poor man's object (Prototypes: Object-Orientation, Functionally)
+- [Closures are a poor man's object (Prototypes: Object-Orientation, Functionally)](./resources/9/prototypes.pdf)
 - Introduction to Formal Reasoning and Theorem Proving
 
 
