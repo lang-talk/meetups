@@ -21,3 +21,11 @@
 [Algorithms + Data Structures = Programs](https://adspthepodcast.com)
 
 [The Array Cast](https://www.arraycast.com)
+
+[Haskell Weekly](https://haskellweekly.news)
+
+[Advent of Computing](https://adventofcomputing.com)
+
+[Functional Geekery](https://www.functionalgeekery.com)
+
+[Libre Lounge ep. 13](https://librelounge.org/episodes/episode-13-object-capabilities-with-kate-sills.html)
