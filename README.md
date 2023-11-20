@@ -36,20 +36,18 @@ ____
 Check it out if you want to know what is up.
 You can also add stuff to the list - even if you don't want to give that talk yourself, someone else might pick it up.
 
-
-## 🎙 Past Talks
+## ⌛ Upcoming
 
 ### lang-talk meetup vol. 10
 
 🎥 Recording: won't be recorded
 
-📅 Date: Doodle voting to be announced (expected November 2023)
+📅 Date: [Doodle vote](https://doodle.com/meeting/participate/id/azng0Jra)
 
-📋 Line up: to be announced
+📋 Line up: waiting for submissions
 
 
-----
-
+## 🎙 Past Talks
 
 ### lang-talk meetup vol. 9
 
