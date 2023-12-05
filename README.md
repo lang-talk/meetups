@@ -38,16 +38,30 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 ## ⌛ Upcoming
 
-### lang-talk meetup vol. 10
+### lang-talk meetup vol. 11
 
 🎥 Recording: won't be recorded
 
-📅 Date: [Doodle vote](https://doodle.com/meeting/participate/id/azng0Jra)
+📅 Date: TBD
 
 📋 Line up: waiting for submissions
 
 
 ## 🎙 Past Talks
+
+### lang-talk meetup vol. 10
+
+🎥 Recording: won't be recorded
+
+📅 Date: 29.11.2023
+
+📋 Line up:
+
+- [Automated Theorem Proving = Logic Programming](./resources/10/logic.pdf)
+- Scalene!
+- [CLOS: The basic parts & reading lisp](./resources/10/clos.pdf)
+
+----
 
 ### lang-talk meetup vol. 9
 
