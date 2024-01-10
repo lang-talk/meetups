@@ -44,7 +44,7 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 📅 Date: TBD
 
-📋 Line up: waiting for submissions
+📋 Line up: up to three guest speakers scheduled
 
 
 ## 🎙 Past Talks
