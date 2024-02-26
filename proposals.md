@@ -21,7 +21,6 @@ Additionally, you can also mark the talk as `🛠 open to collab` - meaning that
 
 ## 👷 Being Prepared:
 - Let's oxidize the code `🛠 open to collab` (Artify)
-- Write Yourself a Prolog in 20 Minutes `🔧 in the works`
 - S-Expression the ultimate Datum `🔧 in the works`
 - Exhaustive list of S-tier languages (things language developers don't want you to know) `🔧 in the works`
 
@@ -33,6 +32,5 @@ Additionally, you can also mark the talk as `🛠 open to collab` - meaning that
 
 ## 🧊 Frozen:
 - What is Functional Programming and Where can I Find It? `🛠 open to collab` 🧊
-- Making a Simple Automated Theorem Prover  🧊
 - Write Yourself a CLP(FD) Solver 🧊
 - Introduction to Algebraic Effects and Handlers 🧊
