@@ -36,22 +36,53 @@ ____
 Check it out if you want to know what is up.
 You can also add stuff to the list - even if you don't want to give that talk yourself, someone else might pick it up.
 
+
 ## ⌛ Upcoming
 
-### lang-talk meetup vol. 11
+### lang-talk meetup vol. 13
 
-🎥 Recording: won't be recorded
+🎥 Recording: might be recorded
 
 📅 Date: TBD
 
-📋 Line up: up to three guest speakers scheduled
+📋 Line up: TBD
 
 
 ## 🎙 Past Talks
 
+### lang-talk meetup vol. 12
+
+🎥 Recordings:
+
+- [Inside the Rust Borrow Checker part 1](https://youtu.be/sBjInBzYZO0)
+- [Inside the Rust Borrow Checker part 2](https://youtu.be/TJn_mvwrKm4)
+- [How flow sensitive typing works in Kotlin](https://youtu.be/eD_zrfbibGE)
+
+📅 Date: 29.1.2024
+
+📋 Line up:
+
+- Inside the Rust Borrow Checker
+- Kotlin (*invited speaker*) TODO: title!!!
+
+----
+
+### lang-talk meetup vol. 11
+
+🎥 Recording: not recorded
+
+📅 Date: 29.1.2024
+
+📋 Line up:
+
+- Isabelle/HOL (*invited speaker*)
+- Type-level and Metaprogramming in Scala (*invited speaker*)
+
+----
+
 ### lang-talk meetup vol. 10
 
-🎥 Recording: won't be recorded
+🎥 Recording: not recorded
 
 📅 Date: 29.11.2023
 
