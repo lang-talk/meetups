@@ -56,14 +56,14 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 - [Inside the Rust Borrow Checker part 1](https://youtu.be/sBjInBzYZO0)
 - [Inside the Rust Borrow Checker part 2](https://youtu.be/TJn_mvwrKm4)
-- [How flow sensitive typing works in Kotlin](https://youtu.be/eD_zrfbibGE)
+- [How flow-sensitive typing works in Kotlin](https://youtu.be/eD_zrfbibGE)
 
 📅 Date: 29.1.2024
 
 📋 Line up:
 
 - Inside the Rust Borrow Checker
-- How flow sensitive typing works in Kotlin (*invited speaker*)
+- How flow-sensitive typing works in Kotlin (*invited speaker*)
 
 ----
 
