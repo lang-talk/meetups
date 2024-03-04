@@ -62,8 +62,8 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 📋 Line up:
 
-- Inside the Rust Borrow Checker
-- How flow-sensitive typing works in Kotlin (*invited speaker*)
+- [Inside the Rust Borrow Checker](./resources/12/rust.pdf)
+- [How flow-sensitive typing works in Kotlin](./resources/12/kotlin.pdf) (*invited speaker*)
 
 ----
 
