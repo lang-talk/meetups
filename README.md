@@ -39,7 +39,7 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 ## ⌛ Upcoming Talks
 
-### lang-talk meetup vol. 13
+### lang-talk meetup vol. 14
 
 🎥 Recording: might be recorded
 
@@ -52,6 +52,18 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 ### [🎥 Complete YouTube Playlist](https://www.youtube.com/playlist?list=PLj19WpP5yB10Kbc4-S0Cx68K5GAGbJMnK)
 
+### lang-talk meetup vol. 13
+
+🎥 Recordings: TBA
+
+📅 Date: 27. March 2024
+
+📋 Line up:
+
+- "Jak zahodit bash pro skripty a nahradit ho Pythonem aniž by toho člověk litoval"
+- Shen: building types with Prolog and the sequent calculus
+- [The costs of mutability in dynamic programming languages](./resources/13/costs-of-mutability)
+
 ### lang-talk meetup vol. 12
 
 🎥 Recordings:
@@ -60,7 +72,7 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 - [Inside the Rust Borrow Checker part 2](https://youtu.be/TJn_mvwrKm4)
 - [How flow-sensitive typing works in Kotlin](https://youtu.be/eD_zrfbibGE)
 
-📅 Date: 29.1.2024
+📅 Date: 19. February 2024
 
 📋 Line up:
 
@@ -73,7 +85,7 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 🎥 Recording: not recorded
 
-📅 Date: 29.1.2024
+📅 Date: 29. January 2024
 
 📋 Line up:
 
@@ -86,7 +98,7 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 🎥 Recording: not recorded
 
-📅 Date: 29.11.2023
+📅 Date: 29. November 2023
 
 📋 Line up:
 
