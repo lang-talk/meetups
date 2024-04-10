@@ -8,7 +8,7 @@ We will keep you notified when a next meetup is getting ready.
 
 ____
 
-
+<!--
 ## Recommendations
 
 A bunch of stuff we like and want to share with each other.
@@ -29,6 +29,7 @@ A list of papers, books and other kinds of texts we read and love.
 Recordings of talks but not only.
 
 ____
+-->
 
 
 ## [📌 Future Talks](./proposals.md)
@@ -48,9 +49,7 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 📋 Line up: TBD
 
 
-## 🎙 Past Talks
-
-### [🎥 Complete YouTube Playlist](https://www.youtube.com/playlist?list=PLj19WpP5yB10Kbc4-S0Cx68K5GAGbJMnK)
+## 🎙 Past Talks and the [🎥 Complete YouTube Playlist](https://www.youtube.com/playlist?list=PLj19WpP5yB10Kbc4-S0Cx68K5GAGbJMnK)
 
 ### lang-talk meetup vol. 13
 
