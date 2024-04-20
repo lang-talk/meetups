@@ -182,7 +182,7 @@ As a side note—not all occurrences of term `t` have to be replaced with `α`s.
 As a side-condition—the `x` must not "escape" its scope.
 
 
-> Do these ressemble something you know? Maybe focus on the implication introduction and elimination, forall introduction ...
+> Do these resemble something you know? Maybe focus on the implication introduction and elimination, forall introduction ...
 
 ## Theorem Proving
 
