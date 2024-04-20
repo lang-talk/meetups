@@ -191,4 +191,9 @@ Theorem proving is not magic!
 > Let's do some light theorem proving.
 
 
+______
+
+### Sometimes, a little bit of magic is nice, though.
+
+
 ![](can-we-have-induction.png)
