@@ -81,7 +81,7 @@ Gentzen's [Natural Deduction](https://en.wikipedia.org/wiki/Natural_deduction) i
 ```
 
 
-#### Iimplication Introduction
+#### Implication Introduction
 ```
   | A
   |-----
