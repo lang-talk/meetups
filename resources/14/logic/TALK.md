@@ -147,6 +147,8 @@ A ==> B
 ```
 As a side-condition—the `x` must not "escape" its scope.
 
+> Demonstrate.
+
 
 #### Forall Elimination
 ```
