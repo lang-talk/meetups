@@ -40,7 +40,7 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 ## ⌛ Upcoming Talks
 
-### lang-talk meetup vol. 14
+### lang-talk meetup vol. 15
 
 🎥 Recording: might be recorded
 
@@ -50,6 +50,17 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 
 ## 🎙 Past Talks and the [🎥 Complete YouTube Playlist](https://www.youtube.com/playlist?list=PLj19WpP5yB10Kbc4-S0Cx68K5GAGbJMnK)
+
+### lang-talk meetup vol. 14
+
+🎥 Recording: might be recorded
+
+📅 Date: 24. April 2024
+
+📋 Line up:
+- A Generic Introduction to Algebraic Effects
+- [Light Intro to Formal Logic, Proof Systems, Theorem Proving](./resources/14/logic/TALK.md)
+- [Introduction to Dependent Type Theory](./resources/14/dtt/handout.pdf)
 
 ### lang-talk meetup vol. 13
 
