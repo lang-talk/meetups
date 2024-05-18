@@ -50,11 +50,11 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 - Lua and register-based VM
 
 
-## 🎙 Past Talks and the [🎥 Complete YouTube Playlist](https://www.youtube.com/playlist?list=PLj19WpP5yB10Kbc4-S0Cx68K5GAGbJMnK)
+## 🎙 Past Talks <!-- and the [🎥 Complete YouTube Playlist](https://www.youtube.com/playlist?list=PLj19WpP5yB10Kbc4-S0Cx68K5GAGbJMnK) -->
 
 ### lang-talk meetup vol. 14
 
-🎥 Recording: might be recorded
+🎥 Recording: TBA
 
 📅 Date: 24. April 2024
 
