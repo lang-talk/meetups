@@ -44,9 +44,10 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 🎥 Recording: might be recorded
 
-📅 Date: TBD
+📅 Date: 23. 5. at 3pm o'clock
 
-📋 Line up: TBD
+📋 Line up:
+- Lua and register-based VM
 
 
 ## 🎙 Past Talks and the [🎥 Complete YouTube Playlist](https://www.youtube.com/playlist?list=PLj19WpP5yB10Kbc4-S0Cx68K5GAGbJMnK)
