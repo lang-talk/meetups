@@ -1,11 +1,11 @@
 # 🎧 Podcasts about Programming Languages
 
 
-[CoRecursive](https://corecursive.com)
+[CoRecursive](https://corecursive.com) :star:
 
-[Future of Coding](https://futureofcoding.org)
+[Future of Coding](https://futureofcoding.org) :star:
 
-[Algorithms + Data Structures = Programs](https://adspthepodcast.com)
+[Algorithms + Data Structures = Programs](https://adspthepodcast.com) :star:
 
 [Advent of Computing](https://adventofcomputing.com)
 
@@ -16,9 +16,9 @@
 
 ## Language Design and Compiler Construction
 
-[Software Unscripted](https://twitter.com/sw_unscripted)
+[Software Unscripted](https://twitter.com/sw_unscripted) :star:
 
-[We Speak Your Language](https://www.raincodelabs.com/wespeakyourlanguage/)
+[We Speak Your Language](https://www.raincodelabs.com/wespeakyourlanguage/) :star:
 
 
 ## Array Languages
@@ -33,9 +33,9 @@
 
 ## Type Theory
 
-[The Type Theory Podcast](https://typetheorypodcast.com/)
+[The Type Theory Podcast](https://typetheorypodcast.com/) :star:
 
-[Type Theory Forall](https://www.typetheoryforall.com)
+[Type Theory Forall](https://www.typetheoryforall.com) :star:
 
 [The Iowa Type Theory Commute](https://homepage.divms.uiowa.edu/~astump/ittc.html)
 
