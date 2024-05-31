@@ -8,28 +8,13 @@ We will keep you notified when the next meetup is getting ready.
 
 ____
 
-<!--
-## Recommendations
+## [🎧 PL Podcasts](./podcasts.md)
 
-A bunch of stuff we like and want to share with each other.
-
-
-### [🎧 Recommended Podcasts](./podcasts.md)
-
-A list of podcasts that are relevant to the PL research and implementation.
+A list of podcasts that are dedicated to PL design or compiler construction.
 
 
-### [📖 Recommended Literature](./literature.md)
+----
 
-A list of papers, books and other kinds of texts we read and love.
-
-
-### [📺 Recommended Videos](./videos.md)
-
-Recordings of talks but not only.
-
-____
--->
 
 <!--
 ## [📌 Future Talks](./proposals.md)
