@@ -78,7 +78,7 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 📋 Line up:
 
-- "Jak zahodit bash pro skripty a nahradit ho Pythonem aniž by toho člověk litoval"
+- ["Jak zahodit bash pro skripty a nahradit ho Pythonem aniž by toho člověk litoval"](./resources/13/unbash.pdf)
 - Shen: building types with Prolog and the sequent calculus
 - [The costs of mutability in dynamic programming languages](./resources/13/costs-of-mutability)
 
