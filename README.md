@@ -1,10 +1,10 @@
 # #lang-talk meetups
 
-This is the page for our small comunity of PL enthusiasts.
+This is the page for our small community of PL enthusiasts.
 The effort started on 16th November 2022. That was the date of our first meetup.
 
 ## [📬 Get updates to your mailbox](https://forms.gle/7aS8Qcf2bQPBXJFRA)
-We will keep you notified when a next meetup is getting ready.
+We will keep you notified when the next meetup is getting ready.
 
 ____
 
@@ -38,23 +38,26 @@ Check it out if you want to know what is up.
 You can also add stuff to the list - even if you don't want to give that talk yourself, someone else might pick it up.
 -->
 
-## ⌛ Upcoming Talks
+<!-- ## ⌛ Upcoming Talks -->
+
+## 🎙 Past Talks and the [🎥 Complete YouTube Playlist](https://youtube.com/playlist?list=PLIsBvRXhzG5vHUVaEa25HKZpiKZaMLM_N&si=MVEg6JVYouC9M_lQ)
 
 ### lang-talk meetup vol. 15
 
-🎥 Recording: might be recorded
+🎥 Recording: recording will be available soon
 
-📅 Date: 23. 5. at 3pm o'clock
+📅 Date: 23. 5. at 3 pm
 
 📋 Line up:
 - Lua and register-based VM
 
 
-## 🎙 Past Talks <!-- and the [🎥 Complete YouTube Playlist](https://www.youtube.com/playlist?list=PLj19WpP5yB10Kbc4-S0Cx68K5GAGbJMnK) -->
+----
+
 
 ### lang-talk meetup vol. 14
 
-🎥 Recording: TBA
+🎥 Recording: [youtu.be/mLtHML1shYI](https://youtu.be/mLtHML1shYI)
 
 📅 Date: 24. April 2024
 
@@ -63,9 +66,13 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 - [Light Intro to Formal Logic, Proof Systems, Theorem Proving](./resources/14/logic/TALK.md)
 - [Introduction to Dependent Type Theory](./resources/14/dtt/handout.pdf)
 
+
+----
+
+
 ### lang-talk meetup vol. 13
 
-🎥 Recordings: TBA
+🎥 Recording: [youtu.be/HW8xNzV0U88](https://youtu.be/HW8xNzV0U88)
 
 📅 Date: 27. March 2024
 
@@ -75,13 +82,17 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 - Shen: building types with Prolog and the sequent calculus
 - [The costs of mutability in dynamic programming languages](./resources/13/costs-of-mutability)
 
+
+----
+
+
 ### lang-talk meetup vol. 12
 
 🎥 Recordings:
 
-- [Inside the Rust Borrow Checker part 1](https://youtu.be/sBjInBzYZO0)
-- [Inside the Rust Borrow Checker part 2](https://youtu.be/TJn_mvwrKm4)
-- [How flow-sensitive typing works in Kotlin](https://youtu.be/eD_zrfbibGE)
+- [Inside the Rust Borrow Checker part 1](https://youtu.be/pZjsCWpHAw0)
+- [Inside the Rust Borrow Checker part 2](https://youtu.be/ford0RdAVZs)
+- [How flow-sensitive typing works in Kotlin](https://youtu.be/IYQjRpPndFc)
 
 📅 Date: 19. February 2024
 
@@ -90,11 +101,11 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 - [Inside the Rust Borrow Checker](./resources/12/rust.pdf)
 - [How flow-sensitive typing works in Kotlin](./resources/12/kotlin.pdf) (*invited speaker*)
 
+
 ----
 
-### lang-talk meetup vol. 11
 
-🎥 Recording: not recorded
+### lang-talk meetup vol. 11
 
 📅 Date: 29. January 2024
 
@@ -103,11 +114,11 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 - Isabelle/HOL (*invited speaker*)
 - Type-level and Metaprogramming in Scala (*invited speaker*)
 
+
 ----
 
-### lang-talk meetup vol. 10
 
-🎥 Recording: not recorded
+### lang-talk meetup vol. 10
 
 📅 Date: 29. November 2023
 
@@ -117,11 +128,11 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 - Scalene!
 - [CLOS: The basic parts & reading lisp](./resources/10/clos.pdf)
 
+
 ----
 
-### lang-talk meetup vol. 9
 
-🎥 Recording: not recorded
+### lang-talk meetup vol. 9
 
 📅 Date: 30. October 2023
 
@@ -137,8 +148,6 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 ### lang-talk meetup vol. 8
 
-🎥 Recording: not recorded
-
 📅 Date: 26. July 2023
 
 📋 Line up:
@@ -153,8 +162,8 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 🎥 Recording:
 
- - [part 1: youtube.com/live/PEVLRXKiA0U](https://youtube.com/live/PEVLRXKiA0U)
- - [part 2: youtube.com/live/6p-wk48aqBk](https://youtube.com/live/6p-wk48aqBk)
+ - [part 1: youtu.be/-ftxd2QNXis](https://youtu.be/-ftxd2QNXis)
+ - [part 2: youtu.be/pUJqE9v3bsI](https://youtu.be/pUJqE9v3bsI)
 
 📅 Date: 29. June 2023
 
@@ -163,14 +172,12 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 - S-Expression the ultimate Datum
 - JavaScript is Stat...Expression oriented, continued
 
-
 ----
-
 
 
 ### lang-talk meetup vol. 6
 
-🎥 Recording: [youtube.com/live/WpnomZmQNcE](https://youtube.com/live/WpnomZmQNcE)
+🎥 Recording: [youtu.be/SCGJM7OkGmU](https://youtu.be/SCGJM7OkGmU)
 
 📅 Date: 30. May 2023
 
@@ -185,7 +192,7 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 ### lang-talk meetup vol. 5
 
-🎥 Recording: [youtube.com/live/yu9Ez4XnmnM](https://youtube.com/live/yu9Ez4XnmnM)
+🎥 Recording: [youtu.be/mGLxYYmkUho](https://youtu.be/mGLxYYmkUho)
 
 📅 Date: 20. April 2023
 
@@ -201,7 +208,7 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 ### lang-talk meetup vol. 4
 
-🎥 Recording: [youtube.com/live/i6l8zdv19WI](https://youtube.com/live/i6l8zdv19WI)
+🎥 Recording: [youtu.be/NYslWINATGI](https://youtu.be/NYslWINATGI)
 
 📅 Date: 27. March 2023
 
@@ -218,7 +225,7 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 ### lang-talk meetup vol. 3
 
-🎥 Recording: [youtube.com/live/P6YdCdkjTtA](https://youtube.com/live/P6YdCdkjTtA)
+🎥 Recording: [youtu.be/4wtDB4PASDE](https://youtu.be/4wtDB4PASDE)
 
 📅 Date: 28. February 2023
 
@@ -233,7 +240,7 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 ### lang-talk meetup vol. 2
 
-🎥 Recording: [youtube.com/live/P9Hqp_OVjL0](https://youtube.com/live/P9Hqp_OVjL0)
+🎥 Recording: [youtu.be/qD_nt0Rrlsw](https://youtu.be/qD_nt0Rrlsw)
 
 📅 Date: 31. January 2023
 
@@ -249,7 +256,7 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 ### lang-talk meetup vol. 1
 
-🎥 Recording: [youtube.com/live/uJkWmLQE5LI](https://youtube.com/live/uJkWmLQE5LI)
+🎥 Recording: [youtu.be/AFKpPIl9RDU](https://youtu.be/AFKpPIl9RDU)
 
 📅 Date: 15. December 2022
 
@@ -266,7 +273,7 @@ You can also add stuff to the list - even if you don't want to give that talk yo
 
 ### lang-talk meetup vol. 0
 
-🎥 Recording: [youtu.be/D2EPM60-MPE](https://youtu.be/D2EPM60-MPE)
+🎥 Recording: [youtu.be/ECtC_Y6RLBI](https://youtu.be/ECtC_Y6RLBI)
 
 📅 Date: 16. November 2022
 
