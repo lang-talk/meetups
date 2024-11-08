@@ -1,11 +1,15 @@
+## This repository has been deprecated!
+We are in the process of changing organizers. Soon, we will archive this repository and the organization. The new way for the community to communicate will be a Discord server. We will also move to a different repository and a different website. I will update this document when the migration is done for the last time and make it read-only then.
+
 # #lang-talk meetups
 
 This is the page for our small community of PL enthusiasts.
 The effort started on 16th November 2022. That was the date of our first meetup.
 
-## [📬 Get updates to your mailbox](https://forms.gle/7aS8Qcf2bQPBXJFRA)
-We will keep you notified when the next meetup is getting ready.
+<!-- ## [📬 Get updates to your mailbox](https://forms.gle/7aS8Qcf2bQPBXJFRA)
+We will keep you notified when the next meetup is getting ready. -->
 
+<!--
 ____
 
 ## [🎧 PL Podcasts](./podcasts.md)
@@ -14,6 +18,7 @@ A list of podcasts that are dedicated to PL design or compiler construction.
 
 
 ----
+-->
 
 
 <!--
